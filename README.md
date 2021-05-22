@@ -1,5 +1,5 @@
 # SQL Excercise
-Repository for SQL exercises on Postgresql Database.
+Repository for SQL exercises on Postgresql Database in Colab Notebooks.
 
 ## Exercises
   * [Introduction](https://github.com/GurmitSeera/SQL-Exercises/blob/main/SQL_Excercises.ipynb)
